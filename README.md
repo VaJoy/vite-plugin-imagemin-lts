@@ -2,8 +2,6 @@
 
 **English** | [中文](./README.zh_CN.md)
 
-[![npm][npm-img]][npm-url] [![node][node-img]][node-url]
-
 A vite plugin for compressing image assets
 
 Forked from [vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin) with long-time-support.
