@@ -2,8 +2,6 @@
 
 **中文** | [English](./README.md)
 
-[![npm][npm-img]][npm-url] [![node][node-img]][node-url]
-
 一个压缩图片资产的 vite 插件，Forked 自[vite-plugin-imagemin](https://github.com/vbenjs/vite-plugin-imagemin)，原作者已经弃坑了，只能独立发包。
 
 ## 安装 (yarn or npm)
